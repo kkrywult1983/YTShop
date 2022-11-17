@@ -1,0 +1,11 @@
+@import './homepage';
+@import './details';
+@import './products';
+@import './cart';
+
+.ember-view {
+  text-decoration: none;
+  &:hover {
+    color: blue;
+  }
+}

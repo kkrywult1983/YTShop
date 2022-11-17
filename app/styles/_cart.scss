@@ -1,0 +1,11 @@
+.cart-item {
+  .cart-item-thumbnail {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    .img {
+      min-width: 100%;
+      min-height: 100%;
+    }
+  }
+}
